@@ -1,3 +1,2 @@
-# Python
-Python codes
+# Python codes
 Часть кодов, по задачкам на py.checkio.org
